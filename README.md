@@ -1,3 +1,1 @@
-# Jonas-Simon-KEX//
-
-Test för att se privat Github
+# DQN for Bachelor Thesis EECS KTH 2022//
